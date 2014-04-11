@@ -1,0 +1,18 @@
+{
+  "name": "ubiquity",
+  "version": "0.0.0",
+  "authors": [
+    "Andrea Parodi <andrea.parodi@ebansoftware.net>"
+  ],
+  "description": "move your mvc layer between client and server",
+  "main": "lib/ubiquity",
+  "license": "MIT",
+  "homepage": "https://github.com/parroit/ubiquity",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
